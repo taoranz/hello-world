@@ -1,0 +1,13 @@
+.main-image img {
+	max-width: 100%;
+}
+
+.thumbnails {
+	display: flex;
+}
+
+.thumbnails img {
+	max-width: 100%;
+	overflow: auto;
+	white-space: nowrap;
+}
