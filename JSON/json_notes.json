@@ -1,0 +1,19 @@
+{
+  "intro": [
+    "JSON stands for JavaScript Object Notation.",
+    "JSON is a syntax for storing and exchanging data.",
+    "JSON is a lightweight data-interchange format.",
+    "JSON is text, written with JavaScript object notation.",
+  ],
+  
+  "syntax": [
+    "JSON syntax is derived from JavaScript object notation syntax.",
+    "Data is in name/value pairs, which consist of a field name (in double quotes), followed by a colon, followed by a value.",
+    "JSON names require double quotes. JavaScript names don't.",
+    "Data is separated by commas.",
+    "Curly braces hold objects.",
+    "Square brackets hold arrays.",
+    "Strings in JSON must be written in double quotes.",
+    "Objects as values in JSON must follow the same rules as JSON objects.",
+  ],
+}
