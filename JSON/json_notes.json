@@ -16,4 +16,10 @@
     "Strings in JSON must be written in double quotes.",
     "Objects as values in JSON must follow the same rules as JSON objects.",
   ],
+  
+  "json_php": [
+    "A common use of JSON is to read data from a web server, and display the data in a web page.",
+    "Objects in PHP can be converted into JSON by using the PHP function json_encode().",
+  
+  ],
 }
